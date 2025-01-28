@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I am Samuel Obiagba (aka `samuko-things`) 👋
+
+Roboticist | Backend Developer | Founder of [robocre8](https://github.com/robocre8)
 
 <!--
 **samuko-things/samuko-things** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
