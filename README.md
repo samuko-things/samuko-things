@@ -74,15 +74,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelobiagba&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelobiagba&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 🧠 Favorite Quote
 
 > "Imagination is more important than knowledge." - Albert Einstein
