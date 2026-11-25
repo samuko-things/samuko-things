@@ -66,6 +66,7 @@
 - [**Easy IMU (EIMU)**](https://github.com/robocre8/eimu_documentation) – A compact IMU interface module for **ROS2** and **Arduino** robots.
 - [**Arrowkey Teleop Drive Package**](https://github.com/samuko-things/arrow_key_teleop_drive): **ROS2** package to help you drive your robot similar to the teleop drive but with arrowkeys
 - [**OpenCV ROS Driver For USB Camera**](https://github.com/robocre8/opencv_ros_camera): this is a simple **ROS2** pacakge for interfacing camera using opencv.
+- [**IMU Madgwick Filter for Arduino**](https://github.com/samuko-things/imu_madgwick_filter): madgwick filter arduino library based on the [imu_tool](https://github.com/CCNYRoboticsLab/imu_tools) madgwick code by CCNYRoboticsLab
 
 ---
 
