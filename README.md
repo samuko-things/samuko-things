@@ -60,7 +60,8 @@
 
 ### 🧠 Projects
 - [**MoboBot**](https://github.com/robocre8/mobo_bot): An open-source **ROS2-based mobile robot** platform for learning navigation and control.
-- [**Lazy Theta Planner Plugin (Nav2)**](https://github.com/samuko-things/nav2_lazy_theta_planner): a lightweight **Nav2 global planner** plugin implementing Lazy Theta*, an any-angle pathfinding algorithm for grid-based navigation.
+- [**Nav2 Lazy Theta Planner Plugin**](https://github.com/samuko-things/nav2_lazy_theta_planner): a lightweight **Nav2 (ROS2) global planner** plugin implementing Lazy Theta*, an any-angle pathfinding algorithm for grid-based navigation.
+- [**EasyNav Lazy Theta Planner Plugin**](https://github.com/samuko-things/easynav_lazy_theta_planner): a lightweight **EasyNav (ROS2) global planner** plugin implementing Lazy Theta*, an any-angle pathfinding algorithm for grid-based navigation.
 - [**Easy PID Motor Controller (EPMC)**](https://github.com/robocre8/epmc_documentation) – A plug-and-play motor controller with PID for robotics with **ROS2** and **Arduino**
 - [**Easy IMU (EIMU)**](https://github.com/robocre8/eimu_documentation) – A compact IMU interface module for **ROS2** and **Arduino** robots.
 - [**Arrowkey Teleop Drive Package**](https://github.com/samuko-things/arrow_key_teleop_drive): **ROS2** package to help you drive your robot similar to the teleop drive but with arrowkeys
